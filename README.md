@@ -1,1 +1,1 @@
-# JS_assign_string-maths_method
+# JS_3rd_assignment TOPIC : 1) STRING METHODS 2) MATH METHODS 
